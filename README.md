@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- Deployed Link - [URL Shortener](https://url-shortener-seven-tau.vercel.app/)
+
 ## Home Page
 ![url-shortener-preview](https://user-images.githubusercontent.com/48377225/231736002-3a5498ca-334e-4731-afd9-37ff4b522ef7.png)
 
